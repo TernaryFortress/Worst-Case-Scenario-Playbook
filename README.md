@@ -1,5 +1,7 @@
 # Worst Case Scenario Playbook
 
+Let's brainstorm how to save as many individuals as possible.
+
 Prioritize strong social bonds.
 
 Figure out what everyone needs, and give it to them. Encourage others to do the same.
@@ -15,3 +17,4 @@ Prioritize, make compromises, mend damage.
 We persist. We rise to the challenges before us. We win.
 
 !=! More to come !=!
+
