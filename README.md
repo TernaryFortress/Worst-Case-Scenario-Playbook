@@ -1,5 +1,7 @@
 # Worst Case Scenario Playbook
 
+## ~~ This is a blueprint ~~
+
 Let's brainstorm how to save as many individuals as possible.
 
 Prioritize strong social bonds.
