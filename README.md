@@ -1,6 +1,8 @@
 # Worst Case Scenario Playbook
 
-## ~~ This is a blueprint ~~
+This is a work in progress, based upon what I see existing communities using to persevere.
+
+----------
 
 Let's brainstorm how to save as many individuals as possible.
 
